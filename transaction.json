@@ -1,0 +1,28 @@
+{
+  "createdAt": "2025-12-19T03:21:31.000000Z",
+  "transactionId": "Testing",
+  "delivery_fee": 11000,
+  "totalPrice": 511000,
+  "Products": [
+    {
+      "productId": "111",
+      "category_product": "Testing Kategori",
+      "productName": "Nama Produk",
+      "price": 250000,
+      "body": "Product Description",
+      "merchant_id": "Testing_Merchant",
+      "merchant_name": "Testing Merchant Name",
+      "quantity": 1
+    },
+    {
+      "productId": "222",
+      "category_product": "Testing Kategori Dua",
+      "productName": "Nama Produk Dua",
+      "price": 250000,
+      "body": "Product Description",
+      "merchant_id": "Testing_Merchant",
+      "merchant_name": "Testing Merchant Name",
+      "quantity": 1
+    }
+  ]
+}
