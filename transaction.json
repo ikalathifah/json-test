@@ -3,13 +3,13 @@
   "transactionId": "Testing",
   "ecommerce_transaction_id": "Testing",
   "delivery_fee": 0,
-  "totalPrice": 6000000,
+  "totalPrice": 6000001,
   "Products": [
     {
       "productId": "111",
       "category_product": "Testing Kategori",
       "productName": "Nama Produk",
-      "price": 2000000,
+      "price": 2000001,
       "body": "Product Description",
       "merchant_id": "Testing_Merchant",
       "merchant_name": "Testing Merchant Name",
