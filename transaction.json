@@ -3,33 +3,13 @@
   "transactionId": "Testing",
   "ecommerce_transaction_id": "Testing",
   "delivery_fee": 10000,
-  "totalPrice": 18000001,
+  "totalPrice": 1010000,
   "Products": [
     {
       "productId": "111",
       "category_product": "Testing Kategori",
       "productName": "Nama Produk",
-      "price": 14000001,
-      "body": "Product Description",
-      "merchant_id": "Testing_Merchant",
-      "merchant_name": "Testing Merchant Name",
-      "quantity": 1
-    },
-    {
-      "productId": "222",
-      "category_product": "Testing Kategori Dua",
-      "productName": "Nama Produk Dua",
-      "price": 2000000,
-      "body": "Product Description",
-      "merchant_id": "Testing_Merchant",
-      "merchant_name": "Testing Merchant Name",
-      "quantity": 1
-    },
-    {
-      "productId": "333",
-      "category_product": "Testing Kategori Tiga",
-      "productName": "Nama Produk Tiga",
-      "price": 2000000,
+      "price": 1000000,
       "body": "Product Description",
       "merchant_id": "Testing_Merchant",
       "merchant_name": "Testing Merchant Name",
