@@ -1,15 +1,15 @@
 {
   "createdAt": "2025-12-19T03:21:31.000000Z",
   "transactionId": "Testing",
-  "ecommerce_transaction_id": "Testing9",
+  "ecommerce_transaction_id": "Testing10",
   "delivery_fee": 10000,
-  "totalPrice": 1010000,
+  "totalPrice": 550000,
   "Products": [
     {
       "productId": "111",
       "category_product": "Testing Kategori",
       "productName": "Nama Produk",
-      "price": 1000000,
+      "price": 550000,
       "body": "Product Description",
       "merchant_id": "Testing_Merchant",
       "merchant_name": "Testing Merchant Name",
